@@ -10,6 +10,12 @@ __metadata:
   languageName: unknown
   linkType: soft
 
+"w-2@workspace:w-2":
+  version: 0.0.0-use.local
+  resolution: "w-2@workspace:w-2"
+  languageName: unknown
+  linkType: soft
+
 "yarn-test@workspace:.":
   version: 0.0.0-use.local
   resolution: "yarn-test@workspace:."
