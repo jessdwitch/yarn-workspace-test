@@ -1,0 +1,13 @@
+{
+  "name": "yarn-test",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "global:script": "./script.sh"
+  },
+  "workspaces": [
+    "w-1"
+  ],
+  "packageManager": "yarn@3.0.2"
+}
